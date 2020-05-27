@@ -1,3 +1,15 @@
 [submodule "privilege-escalation-awesome-scripts-suite"]
 	path = privilege-escalation-awesome-scripts-suite
 	url = https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite
+[submodule "nishang"]
+	path = nishang
+	url = https://github.com/samratashok/nishang
+[submodule "LinEnum"]
+	path = LinEnum
+	url = https://github.com/rebootuser/LinEnum
+[submodule "impacket"]
+	path = impacket
+	url = https://github.com/SecureAuthCorp/impacket
+[submodule "SecLists"]
+	path = SecLists
+	url = https://github.com/danielmiessler/SecLists
