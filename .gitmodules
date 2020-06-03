@@ -13,3 +13,6 @@
 [submodule "SecLists"]
 	path = SecLists
 	url = https://github.com/danielmiessler/SecLists
+[submodule "evil-winrm"]
+	path = evil-winrm
+	url = https://github.com/Hackplayers/evil-winrm.git
