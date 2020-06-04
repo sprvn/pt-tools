@@ -16,3 +16,6 @@
 [submodule "SUDO_KILLER"]
 	path = SUDO_KILLER
 	url = https://github.com/TH3xACE/SUDO_KILLER
+[submodule "evil-winrm"]
+	path = evil-winrm
+	url = https://github.com/Hackplayers/evil-winrm.git
