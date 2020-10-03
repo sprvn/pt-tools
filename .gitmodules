@@ -19,3 +19,6 @@
 [submodule "evil-winrm"]
 	path = evil-winrm
 	url = https://github.com/Hackplayers/evil-winrm.git
+[submodule "PayloadsAllTheThings"]
+	path = PayloadsAllTheThings
+	url = https://github.com/swisskyrepo/PayloadsAllTheThings.git
